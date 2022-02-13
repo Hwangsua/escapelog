@@ -11,12 +11,15 @@
 방탈출을 다녀오셨나요? <br>
 재밌고 긴박했던 순간을 더 오래 기억할 수 있도록 탈출 경험을 기록으로 남겨주세요!<br>
 다녀온 사람들의 생생한 후기를 둘러볼수 있는 공간, **ESCAPE LOG** 입니다 :)
-<br><br>
+<br><br><br>
 
 # 📎YouTube
-[![Video Label](https://img.youtube.com/vi/wD6P2nTV1NA/0.jpg)](https://youtu.be/wD6P2nTV1NA)
-<br><br>
 
+| 소개 영상                                                    | 시연 영상                                                    |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [![Video Label](https://img.youtube.com/vi/Sh2ZLIaDE38/0.jpg)](https://youtu.be/Sh2ZLIaDE38) | [![Video Label](https://img.youtube.com/vi/wD6P2nTV1NA/0.jpg)](https://youtu.be/wD6P2nTV1NA) |
+
+<br><br>
 
 
 
